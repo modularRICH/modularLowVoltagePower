@@ -1,0 +1,3 @@
+[submodule "dependency/mppcInterface"]
+	path = dependency/mppcInterface
+	url = git@github.com:Sawaiz/mppcInterface.git
