@@ -1,3 +1,6 @@
 [submodule "dependency/mppcInterface"]
 	path = dependency/mppcInterface
 	url = git@github.com:Sawaiz/mppcInterface.git
+[submodule "dependency/atxInterface"]
+	path = dependency/atxInterface
+	url = git@github.com:Sawaiz/atxInterface.git
